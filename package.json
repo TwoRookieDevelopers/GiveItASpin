@@ -12,7 +12,20 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "gsap": "^3.11.4",
     "three": "^0.148.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoRookieDevelopers/GiveItASpin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwoRookieDevelopers/GiveItASpin/issues"
+  },
+  "homepage": "https://github.com/TwoRookieDevelopers/GiveItASpin#readme",
+  "description": ""
 }
